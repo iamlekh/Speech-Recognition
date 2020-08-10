@@ -1,4 +1,5 @@
 spee/
+<<<<<<< HEAD
 ! */*.json
 __pycache__
 modelf.h5
@@ -6,3 +7,6 @@ speech.pem
 speech_commands_v0.01.tar.gz
 speech_commands/
 local/classifier/data.json
+=======
+! *.json
+>>>>>>> a82f56ccc4af084fb6d1afaeccd1d643a42b9391
